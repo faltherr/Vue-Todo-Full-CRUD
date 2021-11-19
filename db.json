@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Learn Vue"
+    },
+    {
+      "id": 2,
+      "todo": "Clean Room"
+    },
+    {
+      "id": 3,
+      "todo": "Stay Happy"
+    },
+    {
+      "id": 4,
+      "todo": "Keep crushing Vue"
+    },
+    {
+      "id": 5,
+      "todo": "Did I mention Vue?"
+    },
+    {
+      "id": 7,
+      "todo": "More time with Vue"
+    }
+  ]
+}
